@@ -1,2 +1,3 @@
-# IBM_Data_Science_repo
+# IBM Data Science - Professional Certification, Coursera
+
 Repo with the notebooks related to the Coursera IBM Data Science course
